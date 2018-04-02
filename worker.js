@@ -1,0 +1,1 @@
+console.log('Hello from worker. Did preload run?', !!self.preloaded)
